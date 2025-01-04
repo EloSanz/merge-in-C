@@ -1,0 +1,5 @@
+12345678	Juan Sanchez        	6.50
+23456789	Maria Lopez         	7.50
+34567890	Carlos Gomez        	8.50
+45678901	Ana Martinez        	9.50
+56789012	Pedro Rodriguez     	9.80

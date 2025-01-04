@@ -1,0 +1,9 @@
+11111111|Luisa Fernandez|1.50
+78901234|Jorge Perez|2.50
+89012345|Marta Lopez|3.50
+90123456|Alberto Gomez|5.50
+12345678|Juan Sanchez|6.50
+23456789|Maria Lopez|7.50
+34567890|Carlos Gomez|8.50
+45678901|Ana Martinez|9.50
+56789012|Pedro Rodriguez|9.80
